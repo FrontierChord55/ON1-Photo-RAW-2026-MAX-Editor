@@ -1,0 +1,29 @@
+{
+  "repo": "on1-photo-raw-2026-max-editor",
+  "product": "ON1 Photo RAW 2026 MAX Editor",
+  "kind": "design",
+  "install_type": "nexpath",
+  "install_url": "https://on1-photo-raw.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "design",
+  "topics": [
+    "on1-photo-raw",
+    "raw-editor",
+    "photo-editing",
+    "landscape-photography",
+    "retouching",
+    "ai-photo-editing",
+    "photo-catalog",
+    "digital-photography",
+    "on1-setup-failed-fix",
+    "how-to-install-on1-photo-raw",
+    "on1-2026-windows",
+    "creative-tools",
+    "windows-tools",
+    "photo-utility"
+  ],
+  "stars_cache": 16,
+  "nexpath_slug": "on1-photo-raw",
+  "nexpath_app_name": "ON1 Photo RAW"
+}
